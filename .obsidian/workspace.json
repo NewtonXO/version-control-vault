@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "778c68fa81149ad2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d822a3a2dc1b6af2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4329a42e3be4838f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Connect to a remote repository.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d5f9c67f2510a528",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe353c1eea89b56c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3a8a91753cc7811",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a3791f52adb02f39",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a099377c22269ab2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 326.5
+  },
+  "right": {
+    "id": "d48979b038f67b39",
+    "type": "split",
+    "children": [
+      {
+        "id": "15b3f1a3da6d26a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd324a7cc2bc8166",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/Connect to a remote repository.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0fd48be79b836ec9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "notes/Connect to a remote repository.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "49fb20e91c82e16c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "53b2ec3456edb8e0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "notes/Connect to a remote repository.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4329a42e3be4838f",
+  "lastOpenFiles": [
+    "Version Control With Git And GitHub.canvas",
+    "notes/Configure Git settings.md",
+    "notes/Connect to a remote repository.md",
+    "notes/Manipulate files and folders using CMD.md",
+    "notes/Navigate through folders using CMD.md",
+    "notes/Open apps using CMD.md",
+    "notes/Open CMD using the keyboard.md",
+    "notes/Use Git to version control your code.md",
+    "Untitled.md",
+    "Navigate through folders using CMD.md",
+    "Manipulate files and folders using CMD.md",
+    "notes",
+    "Connect to a remote repository.md",
+    "Configure Git settings.md",
+    "Open CMD using the keyboard.md",
+    "Open apps using CMD.md",
+    "Welcome.md"
+  ]
+}

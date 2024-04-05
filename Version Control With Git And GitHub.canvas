@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"id":"d6c32775db0844f3","type":"group","x":-440,"y":0,"width":840,"height":161,"label":"Create a folder"},
+		{"id":"6f6f3015d497afab","type":"group","x":-440,"y":760,"width":841,"height":160,"label":"Create a remote repo"},
+		{"id":"afdfba5002d86e4a","x":-441,"y":1040,"width":841,"height":160,"type":"group","label":"Push your changes"},
+		{"id":"adc9f3ee1128e9c7","type":"group","x":-440,"y":-280,"width":840,"height":160,"label":"Navigate to a directory"},
+		{"id":"51983c16e5153026","x":-440,"y":-560,"width":840,"height":160,"type":"group","label":"Open CMD"},
+		{"id":"3190f6c551b0c41f","type":"group","x":-440,"y":520,"width":840,"height":120,"label":"Set initial git settings"},
+		{"id":"0c97e1dff2a1cf7c","type":"group","x":-440,"y":280,"width":840,"height":119,"label":"Open the git bash"},
+		{"id":"43231a792c550185","type":"file","file":"notes/Navigate through folders using CMD.md","x":-420,"y":-240,"width":400,"height":100},
+		{"id":"6fef109f8cd16da2","type":"text","text":"Create a folder to store your repository","x":100,"y":61,"width":281,"height":60},
+		{"id":"d98c3f00960a0cf4","type":"file","file":"notes/Manipulate files and folders using CMD.md","x":-420,"y":41,"width":401,"height":100},
+		{"id":"8b468662ca193ae5","type":"file","file":"notes/Open apps using CMD.md","x":-420,"y":319,"width":400,"height":58},
+		{"id":"e7c7fe37577dcebb","type":"text","text":"Choose a directory for the folder that'll store your repository","x":100,"y":-235,"width":281,"height":90},
+		{"id":"bc358ea5e02789bf","type":"text","text":"Open the git bash prompt","x":100,"y":319,"width":281,"height":60},
+		{"id":"928e18a80d58a7fd","type":"file","file":"notes/Configure Git settings.md","x":-420,"y":560,"width":400,"height":60},
+		{"id":"b74243ac09f74c03","type":"file","file":"notes/Connect to a remote repository.md","x":-420,"y":800,"width":400,"height":100},
+		{"id":"08409bcc800a34cd","type":"text","text":"  Create a repository to remotely share changes to your code.","x":100,"y":805,"width":281,"height":90},
+		{"id":"20f061653cbc89bb","type":"text","text":"Set a user name, email and a default branch name","x":100,"y":560,"width":281,"height":60},
+		{"id":"51f9fdcd3938755b","type":"file","file":"notes/Open CMD using the keyboard.md","x":-420,"y":-520,"width":401,"height":100},
+		{"id":"e5117791c6f79125","x":100,"y":-495,"width":281,"height":50,"type":"text","text":"Open CMD"},
+		{"id":"46eb356b6314cd5e","x":-421,"y":1080,"width":400,"height":100,"type":"file","file":"notes/Use Git to version control your code.md"},
+		{"id":"ff2faac1c1b0648b","x":99,"y":1090,"width":281,"height":80,"type":"text","text":"Upload this obsidian vault to your remote repository"}
+	],
+	"edges":[
+		{"id":"8cd505252897f01f","fromNode":"43231a792c550185","fromSide":"right","toNode":"e7c7fe37577dcebb","toSide":"left"},
+		{"id":"7f38db76908414a2","fromNode":"d98c3f00960a0cf4","fromSide":"right","toNode":"6fef109f8cd16da2","toSide":"left"},
+		{"id":"b7f10bac3a814a6a","fromNode":"adc9f3ee1128e9c7","fromSide":"bottom","toNode":"d6c32775db0844f3","toSide":"top"},
+		{"id":"f610754ae728f02e","fromNode":"8b468662ca193ae5","fromSide":"right","toNode":"bc358ea5e02789bf","toSide":"left"},
+		{"id":"30cfe655b21e62c7","fromNode":"928e18a80d58a7fd","fromSide":"right","toNode":"20f061653cbc89bb","toSide":"left"},
+		{"id":"39810545b3fcdf4f","fromNode":"d6c32775db0844f3","fromSide":"bottom","toNode":"0c97e1dff2a1cf7c","toSide":"top"},
+		{"id":"9de58510b5d81454","fromNode":"0c97e1dff2a1cf7c","fromSide":"bottom","toNode":"3190f6c551b0c41f","toSide":"top"},
+		{"id":"cbef2290ce5dfc9d","fromNode":"b74243ac09f74c03","fromSide":"right","toNode":"08409bcc800a34cd","toSide":"left"},
+		{"id":"089f0d3a88b694b0","fromNode":"3190f6c551b0c41f","fromSide":"bottom","toNode":"6f6f3015d497afab","toSide":"top"},
+		{"id":"f7788bd24c85bcad","fromNode":"51f9fdcd3938755b","fromSide":"right","toNode":"e5117791c6f79125","toSide":"left"},
+		{"id":"674308e5f957d8af","fromNode":"51983c16e5153026","fromSide":"bottom","toNode":"adc9f3ee1128e9c7","toSide":"top"},
+		{"id":"c0bf08b02041fea3","fromNode":"46eb356b6314cd5e","fromSide":"right","toNode":"ff2faac1c1b0648b","toSide":"left"},
+		{"id":"7d2b909cc0fbcac1","fromNode":"6f6f3015d497afab","fromSide":"bottom","toNode":"afdfba5002d86e4a","toSide":"top"}
+	]
+}
