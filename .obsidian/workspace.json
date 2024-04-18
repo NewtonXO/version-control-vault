@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4329a42e3be4838f",
+            "id": "31057cc51df7b9d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Connect to a remote repository.md",
+                "file": "notes/Use Git to version control your code.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Connect to a remote repository.md",
+                "file": "notes/Use Git to version control your code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Connect to a remote repository.md",
+                "file": "notes/Use Git to version control your code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Connect to a remote repository.md"
+                "file": "notes/Use Git to version control your code.md"
               }
             }
           }
@@ -146,16 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4329a42e3be4838f",
+  "active": "31057cc51df7b9d2",
   "lastOpenFiles": [
     "Version Control With Git And GitHub.canvas",
-    "notes/Configure Git settings.md",
     "notes/Connect to a remote repository.md",
+    "notes/Use Git to version control your code.md",
+    "notes/Configure Git settings.md",
     "notes/Manipulate files and folders using CMD.md",
     "notes/Navigate through folders using CMD.md",
     "notes/Open apps using CMD.md",
     "notes/Open CMD using the keyboard.md",
-    "notes/Use Git to version control your code.md",
     "Untitled.md",
     "Navigate through folders using CMD.md",
     "Manipulate files and folders using CMD.md",

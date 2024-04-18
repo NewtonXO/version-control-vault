@@ -32,9 +32,14 @@ $ ~/local-repo > git init
 
 As advised in the previous topic, it's also recommended to run `git config --global credential.helper store` in your Git Bash before proceeding to the next step.
 
-Add the URL for the remote repository where your local repository will be pushed:
+Add a remote (repositories whose branches you track) named `origin` for the repository at `remote_url`
 ```
 $ ~/local-repo > git remote add origin [remote_url]
 ```
 
-Once you've done this, your code is no longer confined to your local machine. Now, you have the option to share your changes with others online by using Git commands such as `git push origin`.
+Push the commits from your local branch (`main` in this case) to the remote repository (`origin`). The `-u` flag, short for `--set-upstream`, establishes a tracking connection between your local branch (`main`) and the remote branch (`main` on `origin`). After setting the upstream, you can simply use `git push` or `git pull` without specifying the remote and branch names.
+```
+$ ~/local-repo > git push -u origin main
+```
+
+Once you've done this, your code is no longer confined to your local machine. Now, you have the option to share your changes with others online by using Git commands such as `git push`.
