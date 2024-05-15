@@ -8,18 +8,46 @@
         "type": "tabs",
         "children": [
           {
-            "id": "31057cc51df7b9d2",
+            "id": "7c7de27a56780971",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Version Control With Git And GitHub.canvas",
+                "viewState": {
+                  "x": 262.0796645702306,
+                  "y": 472.2012578616352,
+                  "zoom": -1.021017781269083
+                }
+              }
+            }
+          },
+          {
+            "id": "8f0f7559d7a48d95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Use Git to version control your code.md",
+                "file": "notes/Configure Git settings.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b479753f7be848f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Connect to a remote repository.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Use Git to version control your code.md",
+                "file": "notes/Connect to a remote repository.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Use Git to version control your code.md",
+                "file": "notes/Connect to a remote repository.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Use Git to version control your code.md"
+                "file": "notes/Connect to a remote repository.md"
               }
             }
           }
@@ -146,16 +174,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "31057cc51df7b9d2",
+  "active": "b479753f7be848f4",
   "lastOpenFiles": [
-    "Version Control With Git And GitHub.canvas",
-    "notes/Connect to a remote repository.md",
-    "notes/Use Git to version control your code.md",
     "notes/Configure Git settings.md",
+    "notes/Connect to a remote repository.md",
+    "Version Control With Git And GitHub.canvas",
+    "notes/Open apps using CMD.md",
     "notes/Manipulate files and folders using CMD.md",
     "notes/Navigate through folders using CMD.md",
-    "notes/Open apps using CMD.md",
     "notes/Open CMD using the keyboard.md",
+    "notes/Use Git to version control your code.md",
     "Untitled.md",
     "Navigate through folders using CMD.md",
     "Manipulate files and folders using CMD.md",
